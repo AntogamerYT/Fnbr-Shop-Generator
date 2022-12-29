@@ -13,6 +13,7 @@ Image server: 3852
 Use your-ip:3852/api/getLatestImg to get the image of the day
 
 server updates at 00:00:30 EST, takes about 30 seconds to screenshot
+
 If the image is blank use the your-ip:3851/api/retake endpoint to retake the screenshot
 
 ## Credits
