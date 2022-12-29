@@ -1,0 +1,17 @@
+@font-face {
+    font-family: BurbankBigCondensed-Black;
+    src: url(fonts/BurbankBigCondensed-Black.otf);
+}
+
+* {
+    font-family: BurbankBigCondensed-Black;
+    color: white;
+    font-size: 60px;  
+
+}
+
+body {
+    background-color: #0e1220;
+    text-align: center;
+}
+
